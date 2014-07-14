@@ -1,0 +1,1284 @@
+2014-06-03 22:22:32 Error: [MissingControllerException] Controller class KankezuController could not be found.
+Exception Attributes: array (
+  'class' => 'KankezuController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/kankezu/
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-05 21:40:16 Error: [MissingControllerException] Controller class KankezuController could not be found.
+Exception Attributes: array (
+  'class' => 'KankezuController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/kankezu/
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-05 21:59:41 Error: [MissingControllerException] Controller class KankezuController could not be found.
+Exception Attributes: array (
+  'class' => 'KankezuController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/kankezu/
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-05 22:38:22 Error: [MissingControllerException] Controller class KankezuController could not be found.
+Exception Attributes: array (
+  'class' => 'KankezuController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/kankezu/
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-05 23:53:07 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::load('DebugKit')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#3 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#4 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#5 {main}
+2014-06-05 23:54:55 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::load('DebugKit')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#3 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#4 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#5 {main}
+2014-06-05 23:57:56 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::load('DebugKit')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#3 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#4 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#5 {main}
+2014-06-06 00:01:33 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:01:35 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:01:40 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:05:06 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:05:24 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:08:01 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:08:04 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:08:08 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:08:15 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:10:27 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:11:40 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:12:28 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:15:28 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 00:17:36 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 09:00:17 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 09:02:50 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/CakePlugin.php(130): CakePlugin::load('DebugKit', Array)
+#1 /var/www/html/kankezu/Config/bootstrap.php(65): CakePlugin::loadAll()
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/Configure.php(92): include('/var/www/html/k...')
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/bootstrap.php(177): Configure::bootstrap(true)
+#4 /var/www/html/kankezu/webroot/index.php(87): include('/var/www/html/v...')
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 09:06:12 Error: [MissingControllerException] Controller class KankezuController could not be found.
+Exception Attributes: array (
+  'class' => 'KankezuController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/kankezu/
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 09:08:01 Error: Fatal Error (64): Cannot redeclare NodesController::$components in [/var/www/html/kankezu/Controller/NodesController.php, line 17]
+2014-06-06 09:08:01 Error: [FatalErrorException] Cannot redeclare NodesController::$components
+Request URL: /kankezu/index.php/nodes
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/var/www/html/k...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/var/www/html/k...', 17, Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/var/www/html/k...', 17, Array)
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-06 09:08:34 Error: [MissingControllerException] Controller class KankezuController could not be found.
+Exception Attributes: array (
+  'class' => 'KankezuController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/kankezu/
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 09:08:58 Error: [MissingViewException] View file "/var/www/html/kankezu/View/Kankezu/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/kankezu/View/Kankezu/index.ctp',
+)
+Request URL: /kankezu/index.php/kankezu/
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/View/View.php(459): View->_getViewFileName(NULL)
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(KankezuController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-06 14:15:46 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 14:18:00 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 14:21:21 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 14:21:38 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 14:22:38 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 14:22:59 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 15:08:02 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 15:35:26 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 15:37:12 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 15:38:41 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 15:42:13 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 15:42:29 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 15:43:19 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 15:49:42 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 15:51:09 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 15:51:24 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 15:52:03 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-06 15:52:19 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-07 10:30:44 Error: [MissingActionException] Action NodesController::normalize.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'NodesController',
+  'action' => 'normalize.css',
+)
+Request URL: /kankezu/index.php/nodes/normalize.css
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#4 {main}
+2014-06-07 10:32:42 Error: [MissingActionException] Action NodesController::normalize.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'NodesController',
+  'action' => 'normalize.css',
+)
+Request URL: /kankezu/index.php/nodes/normalize.css
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#4 {main}
+2014-06-07 10:33:00 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-07 10:33:59 Error: [MissingActionException] Action NodesController::normalize.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'NodesController',
+  'action' => 'normalize.css',
+)
+Request URL: /kankezu/index.php/nodes/normalize.css
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#4 {main}
+2014-06-07 10:34:53 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-07 10:35:14 Error: [MissingActionException] Action NodesController::normalize.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'NodesController',
+  'action' => 'normalize.css',
+)
+Request URL: /kankezu/index.php/nodes/normalize.css
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#4 {main}
+2014-06-07 10:35:57 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-07 10:48:19 Error: [MissingActionException] Action NodesController::normalize.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'NodesController',
+  'action' => 'normalize.css',
+)
+Request URL: /kankezu/index.php/nodes/normalize.css
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#4 {main}
+2014-06-07 10:48:47 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-07 10:48:52 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-07 10:51:50 Error: [MissingActionException] Action NodesController::normalize.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'NodesController',
+  'action' => 'normalize.css',
+)
+Request URL: /kankezu/index.php/nodes/normalize.css
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#4 {main}
+2014-06-07 10:52:51 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-07 10:53:14 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/view/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->view('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-07 10:58:42 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-07 10:58:48 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-07 10:58:59 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-07 11:01:56 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-07 11:01:59 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-07 11:02:22 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-07 15:48:04 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-07 15:48:21 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-07 15:48:28 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-07 15:50:03 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-07 19:27:37 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-07 19:27:49 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-07 19:39:14 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-09 15:45:29 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-09 15:45:47 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-09 15:47:00 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-09 15:47:06 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-09 15:47:09 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-09 15:47:40 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 10:25:18 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/view
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 10:25:54 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/view
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 10:26:23 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 10:47:36 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-22 10:47:47 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-22 14:05:09 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 14:08:28 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 14:08:32 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 14:08:46 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 14:09:28 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 14:09:32 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 14:09:36 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 14:09:41 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 14:09:47 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 14:14:31 Error: [MissingActionException] Action NodesController::phpMyAdmin() could not be found.
+Exception Attributes: array (
+  'controller' => 'NodesController',
+  'action' => 'phpMyAdmin',
+)
+Request URL: /kankezu/index.php/nodes/phpMyAdmin
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#4 {main}
+2014-06-22 16:18:59 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-22 16:19:03 Error: [MissingActionException] Action NodesController::normalize.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'NodesController',
+  'action' => 'normalize.css',
+)
+Request URL: /kankezu/index.php/nodes/normalize.css
+Stack Trace:
+#0 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#4 {main}
+2014-06-22 16:19:19 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 10:54:47 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 10:54:58 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 10:55:03 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 10:55:06 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 10:55:08 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 10:55:11 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-24 10:55:16 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 11:11:15 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 11:11:20 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-24 11:11:24 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 12:34:49 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 12:35:02 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-24 12:35:11 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 12:35:14 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-24 12:35:32 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 12:35:35 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-24 12:40:14 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-24 12:40:32 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 12:40:36 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/edit/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->edit('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-24 12:40:48 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 12:40:55 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 12:40:59 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-24 12:41:02 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-29 11:44:49 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-30 13:59:33 Error: [MissingControllerException] Controller class Normalize.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Normalize.cssController',
+  'plugin' => NULL,
+)
+Request URL: /kankezu/index.php/normalize.css
+Stack Trace:
+#0 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#2 {main}
+2014-06-30 14:00:43 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/view/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->view('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-30 14:20:34 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/view/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->view('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}
+2014-06-30 14:22:27 Error: [NotFoundException] Invalid node
+Request URL: /kankezu/index.php/nodes/view/normalize.css
+Stack Trace:
+#0 [internal function]: NodesController->view('normalize.css')
+#1 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(NodesController), Array)
+#2 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vendor/pear-pear.cakephp.org/CakePHP/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(NodesController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/kankezu/webroot/index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/kankezu/index.php(10): require('/var/www/html/k...')
+#6 {main}

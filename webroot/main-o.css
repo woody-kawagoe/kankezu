@@ -1,0 +1,60 @@
+body {
+  background: #ffeeee;
+  color: #660000;
+  font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
+  font-size:90%;
+  margin: 0;
+}
+ 
+#container {
+}
+ 
+#header {
+  background-color:#660000;
+  color:#FFFFFF;
+}
+h1 {
+  color:#660000;
+  font-size:18pt;
+}
+#content {
+  padding: 5px;
+}
+ 
+#heading3{
+    border:solid 1px #ddd;
+    padding: 5px;
+    border-radius: 5px;
+    background: #eee;
+    -moz-border-radius: 5px; /* FF */
+    background: -moz-linear-gradient(top,  #fff,  #eee); /* FF */
+    -webkit-border-radius: 5px;/* Webkit */
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));/* Webkit */
+    -pie-background:linear-gradient(top,  #fff,  #eee); /* ie */
+    behavior: url(images/PIE.htc);  /* ie */
+    }
+    #heading3 span{border-left:5px #3cf solid;padding-left:10px;}
+
+footer {
+  text-align:right;
+  color:#990000;
+  border-bottom:1px solid #990000;
+  padding:20px 10px 0px 0px;
+}
+ 
+table {
+  width:90%;
+}
+td {
+  padding: 2px 5px 2px 5px;
+  background-color: #FFFFFF;
+  color:#660000;
+  border: #ffeeee solid 2px;
+ 
+}
+pre {
+  background-color: #FFFFFF;
+  padding:5px 10px 5px 10px;
+  margin:10px 20px 10px 20px;
+}
+
